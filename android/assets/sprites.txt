@@ -1,5 +1,5 @@
 sprites.png
-size: 254, 252
+size: 251, 255
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -11,22 +11,15 @@ banana
   offset: 0, 0
   index: -1
 cherries
-  rotate: true
-  xy: 1, 131
+  rotate: false
+  xy: 130, 1
   size: 120, 125
   orig: 128, 128
   offset: 5, 0
   index: -1
-crate
-  rotate: false
-  xy: 130, 130
-  size: 123, 121
-  orig: 128, 128
-  offset: 3, 0
-  index: -1
 orange
-  rotate: true
-  xy: 130, 1
+  rotate: false
+  xy: 1, 131
   size: 127, 123
   orig: 128, 128
   offset: 1, 0
